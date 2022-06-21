@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mide-dev
 - 👀 I’m interested in Front End Web Development
 - 🌱 I’m currently learning HTML, CSS & JavaScript
-- 💞️ I’m looking to collaborate on creating projects together
+- 💞️ I’m looking to collaborate on creating amazing projects together
 - 📫 How to reach me: twitter: @ayomithe
 
 <!---
