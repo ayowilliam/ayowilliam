@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @mide-dev
-- 👀 I’m interested in Front End Web Development
-- 🌱 I’m currently learning HTML, CSS & JavaScript
-- 💞️ I’m looking to collaborate on creating amazing projects together
-- 📫 How to reach me: twitter: @ayomithe
+- 👋 Hi, I’m Ayomide Oke
+- 👀 I’m a Front-End Developer. Looking for problems to solve using my tech skills.
+- 🌱 I’m always learning.
+- 💞️ I’m looking to collaborate on creating unique projects together
+- 📫 How to reach me: Twitter: @ayobilli0ns
 
-<!---
-ayowilliam/ayowilliam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
